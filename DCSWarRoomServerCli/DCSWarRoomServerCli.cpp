@@ -6,7 +6,7 @@
 #include "TacViewClient.h"
 #include "MessageParser.h"
 #include "Types.h"
-#include "RestApi.h"
+
 
 #define CROW_USE_BOOST
 #include <boost/version.hpp>

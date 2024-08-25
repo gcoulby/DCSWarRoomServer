@@ -11,7 +11,7 @@
 
 
 //make array of strings
-const std::string coordinates[8] = {
+const std::string coordinates[9] = {
 	"Longitude",
 	"Latitude",
 	"Altitude",
@@ -19,7 +19,8 @@ const std::string coordinates[8] = {
 	"Pitch",
 	"Yaw",
 	"U",
-	"V"
+	"V",
+	"Heading"
 };
 
 using Properties = std::map<std::string, std::string>;
